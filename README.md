@@ -1,2 +1,2 @@
 # CMD-Snake-Game
-A very simple and fundamental game
+A very simple and classical game
