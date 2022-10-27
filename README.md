@@ -1,3 +1,4 @@
 # CMD-Snake-Game
 A very simple and classical game
-![download](https://user-images.githubusercontent.com/111835151/198150343-70d8d2e8-623c-4e9c-9f91-5d2bc0154ede.png)
+
+![gray-photo-placeholder-icon-design-ui-design-icon-vector-35850819](https://user-images.githubusercontent.com/111835151/198189297-cc062ee9-2e1a-4668-9fb8-5161f8cc76fe.jpg)
